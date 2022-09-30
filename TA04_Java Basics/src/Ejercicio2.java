@@ -15,7 +15,9 @@ public class Ejercicio2 {
 		//suma
 		System.out.println(N+" + "+A+" = "+(N+A));
 		//Resta
-		System.out.println(N+" + "+A+" = "+(N+A));
+		System.out.println(A+" - "+N+" = "+(A-N));
+		//Valor numerico de char
+		System.out.println("Valor numérico del carácter "+C+" = "+((int)C));
 
 
 	}
